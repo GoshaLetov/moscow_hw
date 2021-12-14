@@ -1,3 +1,6 @@
 pandas
 plotly
 openpyxl
+streamlit
+requests
+streamlit_lottie
